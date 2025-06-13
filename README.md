@@ -146,3 +146,9 @@ The page is divided into the following sections:
 > 
 
 
+here are the pics of the landing page!!!
+![Image](https://github.com/user-attachments/assets/0eb69709-3154-44d4-85b1-e77a297c8e83)
+![Image](https://github.com/user-attachments/assets/1d6d8160-1ed3-4b83-93c9-74ce6fbef764)
+![Image](https://github.com/user-attachments/assets/064842ad-43db-4876-b315-56f7751d87c4)
+![Image](https://github.com/user-attachments/assets/93410a8b-923c-445c-a370-30b40b634db4)
+
